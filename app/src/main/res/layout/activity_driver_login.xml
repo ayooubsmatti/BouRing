@@ -7,19 +7,27 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context=".DriverLoginActivity">
 
-    <Button
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Driver"
-        android:id="@+id/driver"/>
-    <Button
+        android:hint="Email"
+        android:id="@+id/email"/>
+    <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Customer"
-        android:id="@+id/customer"/>
-
-
+        android:hint="Password"
+        android:id="@+id/password"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:id="@+id/login"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registration"
+        android:id="@+id/registration"/>
 
 </LinearLayout>
