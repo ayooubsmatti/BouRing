@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180155925498",
+    "firebase_url": "https://bouring-4f0fb.firebaseio.com",
+    "project_id": "bouring-4f0fb",
+    "storage_bucket": "bouring-4f0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180155925498:android:80a770d064fde7dc559a43",
+        "android_client_info": {
+          "package_name": "com.example.bouring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180155925498-1ki3tq14jhjd4n7vh1mo0jotukgkc3vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bouring",
+            "certificate_hash": "b1efcdc84a4d6e4b1963e357306928f0159377f4"
+          }
+        },
+        {
+          "client_id": "180155925498-6fpsm6077nm2blsvjuvujpjc57ua7m6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-1D4lHjWn2mD99AVU_IENB1VCgL4rhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180155925498-6fpsm6077nm2blsvjuvujpjc57ua7m6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
